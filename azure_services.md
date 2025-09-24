@@ -23,4 +23,3 @@ A categorized list of Azure services with official icons for quick navigation.
 ![📱 Web + Mobile](./AzureServices/19-Web_Mobile.jpeg)
 
 
----
