@@ -2,7 +2,7 @@
 
 A categorized list of Azure services with official icons for quick navigation.
 
-![🤖 AI + Machine Learning](./AzureServices/1-AI_machine_learning.jpeg)  
+![🤖 AI + Machine Learning](AzureServices/1-AI_machine_learning.jpg) 
 ![📊 Analytics](./AzureServices/2-Analytics.jpeg)  
 ![🖥️ Compute](./AzureServices/3-Compute.jpeg)  
 ![📦 Containers](./AzureServices/4-Containers.jpeg)  
