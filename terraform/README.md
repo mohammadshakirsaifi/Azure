@@ -1,5 +1,6 @@
 # Terraform on Azure with IaC DevOps and SRE | Real-World 25 Demos
-![Terraform on Azure with IaC DevOps and SRE | Real-World 25 Demos] (terraform/p1.jpg)
+![Terraform on Azure with IaC DevOps and SRE | Real-World 25 Demos](terraform/p1.jpg)
+
 ## Course Modules
 01. Infrastructure as Code (IaC)
 02. Install Tools on MacOs, LinuxOS and WindowsOS
